@@ -1,2 +1,2 @@
 include ':library'
-rootProject.name = "library"
+rootProject.name = "EQWorks"
